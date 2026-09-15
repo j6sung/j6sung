@@ -1,7 +1,18 @@
 ## 정윤성 | Yun Seong Jung
 <br/>
 
-## Log & Contacts
+## About
+
+<!--
+**Currently** &nbsp;&nbsp;&nbsp; <br>
+**Learning** &nbsp;&nbsp;&nbsp;&nbsp; <br>
+**Interests** &nbsp;&nbsp;&nbsp;&nbsp; <br>
+**Based in** &nbsp;&nbsp;&nbsp;&nbsp;
+-->
+
+<br>
+
+## Contacts
 Mail : j6sung@gmail.com
 <br/>
 
