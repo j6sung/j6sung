@@ -62,6 +62,3 @@ Mail : j6sung@gmail.com
 - 알려지지 않은 URL 분석 및 악성 행위 탐지 장치와 방법 — 출원중
 <br/>
 
-## 📊 GitHub Stats
-![j6sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=j6sung&show_icons=true&hide_title=true&hide_border=true&count_private=true)
-
